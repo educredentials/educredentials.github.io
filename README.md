@@ -1,2 +1,2 @@
-# educredentials.github.io-
+# educredentials.github.io
 EduCredentials Documentation repository
